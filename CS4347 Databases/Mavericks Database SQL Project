@@ -26,14 +26,14 @@ CREATE TABLE employee_salary (
 
 INSERT INTO player_demographics (jersey_num, first_name, last_name, age, birth_date)
 VALUES
-(1,'Leslie', 'Knope', 44, 'Female','1979-09-25');
-
+(77,'Luka', 'Dončić', 25,'1999-02-28');
+(1,'Kyrie', 'Irving', 32,'1992-03-23');
 
 
 INSERT INTO employee_salary (jersey_num, first_name, last_name, salary)
 VALUES
-(1, 'Leslie', 'Knope', 'Deputy Director of Parks and Recreation', 75000,1);
-
+(77, 'Luka', 'Dončić',40600000);
+(11,'Kyrie', 'Irving', 38890000);
 
 
 
